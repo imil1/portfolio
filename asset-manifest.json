@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5dea77eb.css",
-    "main.js": "/portfolio/static/js/main.fdeb204b.js",
+    "main.js": "/portfolio/static/js/main.18e3dc45.js",
     "static/media/09.jpg": "/portfolio/static/media/09.f41d3a5734bda8718e6b.jpg",
     "static/media/10.jpg": "/portfolio/static/media/10.5320ce13c36a7350a87c.jpg",
     "static/media/07.jpg": "/portfolio/static/media/07.08dbe396dc1c612ba96f.jpg",
     "static/media/header-bg.png": "/portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/000.png": "/portfolio/static/media/000.c78e9a1ea1476f1bb4b7.png",
     "static/media/08.jpg": "/portfolio/static/media/08.368567a5a9db2b2468ac.jpg",
     "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
@@ -14,11 +15,12 @@
     "static/media/instagram.svg": "/portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
     "static/media/vk.svg": "/portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
     "index.html": "/portfolio/index.html",
+    "static/media/vercel.svg": "/portfolio/static/media/vercel.0cf2d1806be941f7e5d54f7fce19d8a5.svg",
     "main.5dea77eb.css.map": "/portfolio/static/css/main.5dea77eb.css.map",
-    "main.fdeb204b.js.map": "/portfolio/static/js/main.fdeb204b.js.map"
+    "main.18e3dc45.js.map": "/portfolio/static/js/main.18e3dc45.js.map"
   },
   "entrypoints": [
     "static/css/main.5dea77eb.css",
-    "static/js/main.fdeb204b.js"
+    "static/js/main.18e3dc45.js"
   ]
 }
